@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel Framework and SEO.
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me: Visit this link https://amanimasri.github.io/
+- 📫 How to reach me: Visit this link: https://amanimasri.github.io/MyPortfolio/
